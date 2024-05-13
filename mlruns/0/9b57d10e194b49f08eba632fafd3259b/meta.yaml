@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/SDS/MlFlow/mlruns/0/9b57d10e194b49f08eba632fafd3259b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b57d10e194b49f08eba632fafd3259b
+run_name: intrigued-fawn-474
+run_uuid: 9b57d10e194b49f08eba632fafd3259b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715610378247
+status: 1
+tags: []
+user_id: SDS
